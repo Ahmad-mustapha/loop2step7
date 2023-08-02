@@ -1,5 +1,5 @@
-# loop1step2
-*An implementation of loop1step2 clone with html and css*
+# loop2step7
+*An implementation of loop2 step7 clone with html and css*
 ## Prequisite
 - Your browser version should be up to date for better experience
 ## Getting Started
@@ -10,7 +10,7 @@ Clone or download this repository and run with a local server of open `index.htm
 - Html
 - Css
 ## Demo
-[Go Live](https://rawcdn.githack.com/Ahmad-mustapha/Loop1Step2/c918bb45ed9ca6508dbfe77f8889c4f58854499c/loop1step2/index.html
+[Go Live](https://rawcdn.githack.com/Ahmad-mustapha/loop2step7/c8e60e62b8f15f7fe3d470a86110807318fb53eb/index.html
 )
 
 ![screenshot](./img/loop2step7.png)
